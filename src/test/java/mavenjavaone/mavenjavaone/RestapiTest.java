@@ -10,6 +10,11 @@ public void getrestapidata()
 	System.out.println("restapi data one1");
 	System.out.println("restapi data one2");
 	System.out.println("restapi data one3");
+	//a
+	System.out.println("restapi data one4");
+	System.out.println("restapi data one5");
+	System.out.println("restapi data one6");
+	
 	
 }
 @Test
