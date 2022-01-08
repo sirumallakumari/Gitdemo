@@ -7,6 +7,7 @@ public class AppiumTest {
 	public void getappiumdata()
 	{
 		System.out.println("appium data one");
+		
 	}
 @Test
 public void setappiumdata()
