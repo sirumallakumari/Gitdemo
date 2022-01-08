@@ -19,4 +19,10 @@ public void setdataselenium()
 	System.out.println("selenium data two");
 	
 }
+@Test	
+public void setdataselenium1()
+{
+	System.out.println("selenium data three");
+	
+}
 }
